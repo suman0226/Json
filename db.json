@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      {
+      
   "total_results": 2735,
   "page": 1,
   "per_page": 6,
@@ -130,7 +130,7 @@
   "next_page": "https://api.pexels.com/v1/search/?page=2&per_page=6&query=laptop"
 }
 
-    }
+    
   ],
   "profile": {
     "name": "typicode"
